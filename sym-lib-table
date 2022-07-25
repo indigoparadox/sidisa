@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Audio_SID")(type "KiCad")(uri "${KIPRJMOD}/Audio_SID.kicad_sym")(options "")(descr ""))
+  (lib (name "Commodore")(type "KiCad")(uri "${KIPRJMOD}/Commodore.kicad_sym")(options "")(descr ""))
+)
